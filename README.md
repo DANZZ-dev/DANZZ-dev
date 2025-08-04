@@ -47,7 +47,7 @@ Bikin web, UI/UX design, dan mainan mini game jadi hobi gue.
 <!-- Footer Wave -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
-</div>![](https://github-readme-stats.vercel.app/api/top-langs/?username=DANZ-dev&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>![DANZ-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=DANZ-dev&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
